@@ -1,7 +1,7 @@
 {
   "semver": false,
-  "url": "https://github.com/grahambates/tree-sitter-m68k",
-  "lang": "m68k",
   "parser_version": "e128454c2210c0e0c10b68fe45ddb8fee80182a3",
-  "location": null
+  "location": null,
+  "lang": "m68k",
+  "url": "https://github.com/grahambates/tree-sitter-m68k"
 }
